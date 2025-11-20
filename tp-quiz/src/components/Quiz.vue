@@ -8,7 +8,7 @@
     </div>
 </template>
 
-<script setup>
+<script setup> 
 import { computed, ref } from 'vue';
 import Progress from './Progress.vue';
 import Question from './Question.vue';
